@@ -4,7 +4,7 @@ public class HelloWorld {
     String str;
     public static void main(String[] args) {
         HelloWorld h= new HelloWorld();
-       method(str); // non-static variable str cannot be referenced from a static context
+      // method(str); // non-static variable str cannot be referenced from a static context
         h.print();
     }
 
