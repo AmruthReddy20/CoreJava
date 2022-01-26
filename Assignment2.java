@@ -1,9 +1,4 @@
-package General;
-
-import java.util.HashMap;
-import java.io.*;
-import java.util.Scanner;
-import java.util.regex.*;
+package JavaAssignments.CoreJava;
 
 public class Assignment2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package General;
+package JavaAssignments.CoreJava;
 
 public class RelationalFun {
     public static void main(String[] args) {
