@@ -25,7 +25,7 @@ class namesOfOperatingSystems{ // doesn't support O
           return null;
     }
 }
-class Windows implements OsSupport{
+class Windows implements OsSupport {
     public String nameOfOS() {
         return "JavaAssignments.Second_pack.Windows";
     }
@@ -37,7 +37,6 @@ class Windows implements OsSupport{
     public void DeleteFile() {
 
     }
-
 }
 class Windows10Upgraded{  // doesnt support D
     Windows w;
